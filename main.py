@@ -29,5 +29,5 @@ def processar(msg):
 
 
 bot.message_loop(processar)
-while 1:
-  time.sleep(10)
+while True:
+  pass
