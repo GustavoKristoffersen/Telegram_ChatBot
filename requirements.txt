@@ -1,4 +1,4 @@
-Django==3.0.8
+Django==3.0.14
 reportlab==3.5.42
 telepot==12.7
 django-encode==1.0.4
